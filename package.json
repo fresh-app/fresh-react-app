@@ -4,8 +4,9 @@
   "private": true,
   "packageManager": "yarn@1.22.21+sha512.ca75da26c00327d26267ce33536e5790f18ebd53266796fbb664d2a4a5116308042dd8ee7003b276a20eace7d3c5561c3577bdd71bcb67071187af124779620a",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^13.0.0",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
     "@testing-library/user-event": "^13.2.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
