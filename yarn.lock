@@ -2873,9 +2873,9 @@ balanced-match@^1.0.0:
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
 baseline-browser-mapping@^2.11.12:
-  version "2.11.15"
-  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.11.15.tgz#9c0cac93d7d304f3d61bb41088a102cd62e68676"
-  integrity sha512-FwMjJJ7HnyZpWe+oWxegG0fezZyBZUagI5LZEoO3GCbtbKNwRfMH9Ue5d5v01PNePBy1QSfPSDTTeVL0Hb9EzA==
+  version "2.11.16"
+  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.11.16.tgz#0fa19a4ece2e34439ecaa3fdca8a59acfbd287fb"
+  integrity sha512-H/bNPUFHewJHyCTdjn1n3Pit5+2GmWT6mmeHImPX+8MA9NA6b67jO4gYmi4jTbCJb2otq34KMZnovndDPqJwhQ==
 
 batch@0.6.1:
   version "0.6.1"
@@ -3195,9 +3195,9 @@ color-name@~1.1.4:
   integrity sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==
 
 colord@^2.9.1:
-  version "2.9.5"
-  resolved "https://registry.yarnpkg.com/colord/-/colord-2.9.5.tgz#fe43625d8615b9a81d53280cc64afc435820bc6d"
-  integrity sha512-1N4FZkdj0BvP78UatS8VQHP+DnRy/rAyh+eelOONgZNsgatenTe+uApmVrdfknjqvsPdsBhq5tQpnIvClcNWZA==
+  version "2.10.0"
+  resolved "https://registry.yarnpkg.com/colord/-/colord-2.10.0.tgz#56c9050e6b06b4b6c62ddec366a48d65ef57e860"
+  integrity sha512-AidJptpBJmjTclAp9BkLwJi0T93fo5epJnbaZslpg6QVzpHjAiveF55mE9AcUJiGMqRHgMDY8soMsQtuNYMHfw==
 
 colorette@^2.0.10:
   version "2.0.20"
